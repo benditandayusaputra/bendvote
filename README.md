@@ -1,2 +1,3 @@
 # bendvite
-Aplikasi voting pemiliha ketua dan wakil ketua OSIS
+Aplikasi voting pemilihan ketua dan wakil ketua OSIS
+Yang ingin menggunakannya silahkan fork repository ini terlebih dahulu
